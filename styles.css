@@ -1,0 +1,19 @@
+h1{
+text-align:center;
+border:solid;
+padding:20px;
+background-color:green;
+}
+.h2{
+display:flex;
+justify-content: space-between;
+text-align:center;
+border:solid;
+padding:10px;
+background-color:gold;
+border-width: 5px;
+}
+.inputs{
+    display:flex;
+    justify-content:space-around;
+}
